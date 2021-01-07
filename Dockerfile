@@ -1,5 +1,5 @@
 # use a node base image
-FROM node:8-onbuild
+FROM smartweef/node:8-onbuild
 #FROM docker.io/smartweef/test:node-8-onbuild
 
 # set a health check
